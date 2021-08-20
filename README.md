@@ -1,6 +1,6 @@
 ## Mirror Watch
 
-Watch your Mirror positions
+Watch your [Mirror](https://terra.mirror.finance/trade) positions
 
 ```
 npm install
