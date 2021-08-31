@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "type": "module",
-  "dependencies": {},
+  "dependencies": {
+    "@mirror-protocol/mirror.js": "^2.0.1",
+    "@terra-money/terra.js": "^2.0.4"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
